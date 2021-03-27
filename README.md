@@ -1,6 +1,4 @@
-# WaferFaultDetection
- 
-# Wafer Fault Detection
+
 # Building a Machine Learning classification methodology to predict the quality of wafer sensors based on the given training data. 
 
 # Data Description
