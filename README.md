@@ -1,6 +1,5 @@
 
-# A Machine Learning classification Model to predict the quality of wafer sensors based on the given training data. 
-
+# A Machine Learning classification Model to predict the quality of wafer sensors.
 # Data Description
 The data is in multiple sets of files in batches at a given location. Data contais Wafer names and 590 columns of different sensor values for each wafer. The last column will have the "Good/Bad" value for each wafer.
 "Good/Bad" column will have two unique values +1 and -1.  
